@@ -13,6 +13,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 0
@@ -88,7 +92,7 @@
       <updated>1767264321050</updated>
       <workItem from="1767264322386" duration="1298000" />
       <workItem from="1767324061864" duration="1372000" />
-      <workItem from="1767342671558" duration="2391000" />
+      <workItem from="1767342671558" duration="2767000" />
     </task>
     <servers />
   </component>

@@ -2,9 +2,13 @@
 It is Console Base app.
 <hr>
 How to Run:
+<br>
 Fork this repo
+<br>
 Clone it
+<br>
 And run command python run main.py
+<br>
 <hr>
 <br>
 Open to Contribution. You can fork it and make a PR.
